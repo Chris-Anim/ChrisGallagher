@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Chris Gallagher"
+title:		           "Gallagher"
 description:	       "A Jekyll Themed publication"
 author:              "Paul Le editied by Chris Gallagher"
 
